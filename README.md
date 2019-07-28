@@ -38,6 +38,11 @@ make
 make install
 ```
 
+Optionally build using the executable file `dev-build.sh` by running the following from inside the base dir of the repo
+```bash
+./dev-build.sh
+```
+
 ### Running cmatrix
 After you have installed cmatrix just run `cmatrix` to run cmatrix :)
 
